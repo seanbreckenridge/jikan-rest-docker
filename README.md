@@ -1,6 +1,6 @@
 Forked to use the built-in `php` server instead of `apache` (personally have had issues using apache, fails with an error message complaining about the 'Server Name')
 
-Also updates runs `composer update jikan-me/jikan`, which often needs to be run/re-built if there are breaking parser changes
+Also runs `composer update jikan-me/jikan`, which often needs to be run/re-built if there are breaking parser changes
 
 ---
 
