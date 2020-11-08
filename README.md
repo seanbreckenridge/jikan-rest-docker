@@ -1,3 +1,9 @@
+Forked to use the built-in `php` server instead of `apache`
+
+Also updates runs `composer update jikan-me/jikan`, which often needs to be run/re-built if there are breaking parser changes
+
+---
+
 # JikanREST Docker [![Build Status](https://travis-ci.org/fethica/jikan-rest-docker.svg?branch=master)](https://travis-ci.org/fethica/jikan-rest-docker)
 
 🐳 A docker stack for Jikan REST API:
